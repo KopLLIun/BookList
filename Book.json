@@ -1,0 +1,24 @@
+{
+  "books": [
+    {
+      "author": "Anna",
+      "title": "My favourite stories"
+    },
+    {
+      "author": "Anna",
+      "title": "My life"
+    },
+    {
+      "author": "Hendrik",
+      "title": "Bloom"
+    },
+    {
+      "author": "Json",
+      "title": "The sun"
+    },
+    {
+      "author": "Hendrik",
+      "title": "Fear"
+    }
+  ]
+}
